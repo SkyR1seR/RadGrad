@@ -1,0 +1,14 @@
+C:\Users\dommi\source\repos\RadGrad\RadGrad\bin\Debug\RadGrad.exe.config
+C:\Users\dommi\source\repos\RadGrad\RadGrad\bin\Debug\RadGrad.exe
+C:\Users\dommi\source\repos\RadGrad\RadGrad\bin\Debug\RadGrad.pdb
+C:\Users\dommi\source\repos\RadGrad\RadGrad\obj\Debug\RadGrad.csprojAssemblyReference.cache
+C:\Users\dommi\source\repos\RadGrad\RadGrad\obj\Debug\MainWindow.g.cs
+C:\Users\dommi\source\repos\RadGrad\RadGrad\obj\Debug\App.g.cs
+C:\Users\dommi\source\repos\RadGrad\RadGrad\obj\Debug\RadGrad_MarkupCompile.cache
+C:\Users\dommi\source\repos\RadGrad\RadGrad\obj\Debug\RadGrad_MarkupCompile.lref
+C:\Users\dommi\source\repos\RadGrad\RadGrad\obj\Debug\MainWindow.baml
+C:\Users\dommi\source\repos\RadGrad\RadGrad\obj\Debug\RadGrad.g.resources
+C:\Users\dommi\source\repos\RadGrad\RadGrad\obj\Debug\RadGrad.Properties.Resources.resources
+C:\Users\dommi\source\repos\RadGrad\RadGrad\obj\Debug\RadGrad.csproj.GenerateResource.cache
+C:\Users\dommi\source\repos\RadGrad\RadGrad\obj\Debug\RadGrad.exe
+C:\Users\dommi\source\repos\RadGrad\RadGrad\obj\Debug\RadGrad.pdb
